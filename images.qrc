@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/images/particle/particle.png</file>
+        <file>res/images/particle/smoke.png</file>
+        <file>res/images/particle/p1.png</file>
+        <file>res/images/particle/p2.png</file>
+        <file>res/images/particle/p3.png</file>
+        <file>res/images/particle/p4.png</file>
+        <file>res/images/particle/p5.png</file>
+        <file>res/images/bar.svg</file>
+    </qresource>
+</RCC>
